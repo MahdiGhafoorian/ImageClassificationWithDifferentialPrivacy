@@ -2,7 +2,7 @@ This project is to practice image classification with differentia privacy (DP) u
 
 The package Opacus is used to apply DP.
 
-The file **TrainImageClassifierDP_Opacus** does the training using DP
+The file **TrainImageClassifierDP_Opacus** does the training using DP \n
 The file **FineTuneImageClassifierDP_Opacus** does fine tuning using DP 
 
 
